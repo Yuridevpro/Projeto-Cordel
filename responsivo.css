@@ -1,0 +1,93 @@
+@media screen and (max-width: 520px){
+    
+    body{
+        padding: 7px;
+    }
+    h1{
+        font-size: 50px;
+    }
+
+    .normal{
+        font-size: 10px;
+        
+    }
+
+    .p1{
+        width: 150px;
+        font-size: 10px;
+    }
+    .p2{
+        width: 150px;
+        font-size: 10px;
+    }
+    .p4{
+        font-size: 10px;
+        padding: 7px;
+        
+    }
+} /* Adicione essa chave aqui */
+
+@media screen and (min-width: 1020px) and (max-width: 1430px){
+    body{
+        margin: 30px;
+        padding: 10px;
+    }
+    
+    h1{
+        font-size: 100px;
+    }
+
+    .normal{
+        font-size: 25px;
+        
+    }
+
+    .p1{
+        width: 150px;
+        font-size: 25px;
+        width: 50%;
+    }
+    .p2{
+        width: 150px;
+        font-size: 25px;
+        width: 50%;
+    }
+    .p4{
+        font-size: 10px;
+        margin: 79px;
+        
+    }
+}
+
+
+
+@media screen and (min-width: 1500px) and (max-width: 1600px) {
+
+    body{
+        margin: 6px;
+        padding: 40px;
+    }
+
+    .normal{
+        margin: 50px;
+        font-size: 30px;
+    
+}
+.p1{
+    margin-left: 60px;
+    font-size: 30px;
+}
+
+.p2{
+    margin-left: 60px;
+    font-size: 30px;
+}
+
+.p4{
+    margin: auto;
+    
+    
+}
+
+
+}
